@@ -43,8 +43,8 @@ The project follows a standard Java structure with main code under src/main/java
 1. *Clone the Repository*
 2. 
     ```bash
-   git clone <repository-url> <br>
-   cd TextFileIndexer <br> <br>
+   git clone <repository-url>
+   cd TextFileIndexer
     ```
 
 2. *Build the Project* <br> <br>
